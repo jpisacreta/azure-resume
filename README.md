@@ -1,6 +1,6 @@
-# azure-resume
+# azure-resume-project
 My own azure resume project to learn different azure technologies
 
 ## First steps:
 
-- creating the html and frontend
+- A website created from scratch, completely self hosted in azure. 
